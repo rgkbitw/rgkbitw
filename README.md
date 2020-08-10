@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**rgkbitw/rgkbitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rohan, a budding software engineer and a recent computer science graduate.
 
-Here are some ideas to get you started:
+I love building software and I was finalist of a few hackathons:
+ - Akamai Coding Edge hosted by Akamai.
+ - Airbus Aerothon hosted by Airbus.
+ - Hackfest hosted by Amdocs.
+ - Hacktoberfest hosted by Digial Ocean.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I also do competitive programming and regularly participate in contests:
+ - I have been to ACM-ICPC onsite regionals at Amritapuri.
+ - I am ranked at 97 percentile on Hackerrank, [@rgkbitw](https://hackerrank.com/rgkbitw).
+ - I have a rating of 2000+ on LeetCode and ranked <1500 among 115K partcipants, [@rgkbitw](https://leetcode.com/rgkbitw).
+
+
+Thank you for visiting. I would love to hear from you. Please connect via:
+[mail](mailto:rgkbitw@gmail.com), [LinkedIn](https://linkedin.com/in/rgkbitw).
+
